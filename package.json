@@ -1,0 +1,21 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.0",
+  "description": "First go at a nodejs app...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: Something happened with a test here...\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwjussel"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "test",
+    "app"
+  ],
+  "author": "Ryan Jussel",
+  "license": "BSD-2-Clause"
+}
